@@ -5,4 +5,8 @@ public class Shop {
 
         System.out.println("I am going to shopping");
     }
+
+    public static void shoppingWalmart(){
+        System.out.println("I am going to shopping Walmart");
+    }
 }
